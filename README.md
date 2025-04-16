@@ -13,7 +13,7 @@
 
 ![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNOB663&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARNOB663&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARNOB663&layout=pie)](https://github.com/ARNOB663/github-readme-stats)
 
 </div>
 
