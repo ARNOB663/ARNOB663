@@ -9,6 +9,7 @@
 <p>📚 I am also interested in assisting others on their path in Tech.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNOB663&hide=contribs,prs)
 
