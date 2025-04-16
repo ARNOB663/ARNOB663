@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNOB663&hide=contribs,prs)
+![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNOB663&show_icons=true&theme=github_dark)
 
 </div>
 
