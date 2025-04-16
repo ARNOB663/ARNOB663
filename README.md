@@ -9,7 +9,9 @@
 <p>📚 I am also interested in assisting others on their path in Tech.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-<img src = "https://raw.githubusercontent.com/ARNOB663/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARNOB663)](https://github.com/ARNOB663/github-readme-stats)
+
 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfinnt&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ashfinn" /> </p>
+
