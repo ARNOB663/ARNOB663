@@ -10,8 +10,7 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARNOB663)](https://github.com/ARNOB663/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNOB663&hide=contribs,prs)
 
 </div>
 
